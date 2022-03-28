@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/li/repository/BCC_samples'
+make: Leaving directory '/home/li/repository/BCC_samples'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
